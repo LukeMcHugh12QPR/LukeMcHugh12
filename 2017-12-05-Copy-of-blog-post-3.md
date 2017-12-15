@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To make more working sprites and to make more function for the aliens.</td>
+    <td>To make more working sprites and to make more functions for the aliens.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
@@ -43,7 +43,7 @@ published: true
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I questioned what i needed to do to change the function of the aliens.</td>
+    <td>I questioned what I needed to do to change the function of the aliens.</td>
   </tr>
   <tr>
     <td>Independence</td>
@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>.i didn't make all of the bosses functions so i had to try to remember at home how to do it. </td>
+    <td>.I didn't make all of the bosses functions in the lesson so I had to try to remember at home how to do it. </td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I will listen and try to complete more in the lesson especially when it means i might be behind in work.</td>
+    <td>I will listen and try to complete more in the lesson especially when it means I might be behind in work.</td>
     <td></td>
   </tr>
 </table>
